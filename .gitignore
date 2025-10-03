@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.coverage
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+# Project data (通常不入库)
+data/
+artifacts/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# HuggingFace cache
+**/cache/
